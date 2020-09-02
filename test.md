@@ -6,4 +6,4 @@ delimiter ','
 null as ''
 TIMEFORMAT AS 'MM/DD/YYYY HH24:MI:SS'
 REMOVEQUOTES;
-
+TEST
